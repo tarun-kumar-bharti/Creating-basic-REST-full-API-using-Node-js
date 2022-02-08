@@ -1,7 +1,7 @@
 const mysql 		= require('mysql');  			//npm install --save mysql 
 const express 		= require('express') 			//npm install --save express
 const bodyParser 	= require('body-parser'); 		//npm install --save body-parser
-const cors 			= require('cors');				//npm install --save cors							
+const cors 		= require('cors');			//npm install --save cors							
  
 const app = express();
 const port = 3000;
